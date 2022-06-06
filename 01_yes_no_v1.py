@@ -11,3 +11,5 @@ while show_instructions == "hi":
         print("yes or no")
 
 print("hi")
+print("hello")
+print("hello and hi")
